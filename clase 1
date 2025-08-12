@@ -1,6 +1,6 @@
 reporte:
--portada,
--introduccion,
+-portada(datos de materia),
+-introduccion(1-2 parrafos en palabras propias),
 -capturas de pantalla,
 -codigo fuente,
 -conclusión,
